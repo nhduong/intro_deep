@@ -24,5 +24,5 @@ Chonnam National University
 1. Download `cnn_mnist.ipynb`, `mlp_mnist.ipynb`, and `mnist_cnn_lstm_training.ipynb` to your computer. For example, `D:\dl`
 2. Open Command Prompt, type `cd D:\dl`
 3. Enter `jupyter notebook`
-4. `Jupyter IDE` will opened in a web browser, open one of the downloaded programs
+4. `Jupyter IDE` will be opened in a web browser, open one of the downloaded programs
 5. Select menu `Cell` > `Run All` to run the program
