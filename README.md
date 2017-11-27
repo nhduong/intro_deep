@@ -2,6 +2,14 @@
 Nguyen Hai Duong  
 Chonnam National University  
   
+## Models
+1. MLP for MNIST dataset  
+![alt text](https://raw.githubusercontent.com/nhduong/intro_deep/master/imgs/mlp.PNG)
+2. CNN for MNIST dataset  
+![alt text](https://raw.githubusercontent.com/nhduong/intro_deep/master/imgs/cnn.PNG)
+3. CNN-LSTM for MNIST dataset  
+![alt text](https://raw.githubusercontent.com/nhduong/intro_deep/master/imgs/lstm.PNG)
+  
 ## Environment
 0. Windows x64
 1. Python 3.5
