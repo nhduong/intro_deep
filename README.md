@@ -4,11 +4,11 @@ Chonnam National University
   
 ## Models
 1. MLP for MNIST dataset  
-![alt text](https://raw.githubusercontent.com/nhduong/intro_deep/master/imgs/mlp.PNG)
+![alt text](https://raw.githubusercontent.com/nhduong/intro_deep/master/img/mlp.PNG)
 2. CNN for MNIST dataset  
-![alt text](https://raw.githubusercontent.com/nhduong/intro_deep/master/imgs/cnn.PNG)
+![alt text](https://raw.githubusercontent.com/nhduong/intro_deep/master/img/cnn.PNG)
 3. CNN-LSTM for MNIST dataset  
-![alt text](https://raw.githubusercontent.com/nhduong/intro_deep/master/imgs/lstm.PNG)
+![alt text](https://raw.githubusercontent.com/nhduong/intro_deep/master/img/lstm.PNG)
   
 ## Environment
 0. Windows x64
