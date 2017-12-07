@@ -24,13 +24,15 @@ Chonnam National University
 2. Download [cuDNN v5.1](https://developer.nvidia.com/cudnn), extract downloaded file, copy `bin`, `include`, and `lib` folders to `%ProgramFiles%\NVIDIA GPU Computing Toolkit\CUDA\v8.0`
 3. You should restart your computer to apply system’s changes
 4. Download and install [Anaconda 4.2.0 with Python 3.5](https://repo.continuum.io/archive/Anaconda3-4.2.0-Windows-x86_64.exe)
-5. Open Command Prompt as Administrator
-6. Install `TensorFlow` by entering `pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/windows/cpu/tensorflow-1.0.1-cp35-cp35m-win_amd64.whl`
-7. Enter `conda install -c conda-forge keras` to install Keras
+5. Download TensorFlow 1.0.1 GPU for Python 3.5 ([tensorflow_gpu-1.0.1-cp35-cp35m-win_amd64.whl](https://pypi.python.org/pypi/tensorflow-gpu/1.0.1))
+6. Open Command Prompt as Administrator
+7. Type `cd /d "path to .whl file"`
+8. Install `TensorFlow` by entering `pip install --ignore-installed --upgrade tensorflow_gpu-1.0.1-cp35-cp35m-win_amd64.whl`
+9. Enter `conda install -c conda-forge keras` to install Keras
 
 ## Usage
 1. Download `cnn_mnist.ipynb`, `mlp_mnist.ipynb`, and `mnist_cnn_lstm_training.ipynb` to your computer. For example, `D:\dl`
-2. Open Command Prompt, type `cd D:\dl`
+2. Open Command Prompt, type `cd /d D:\dl`
 3. Enter `jupyter notebook`
 4. `Jupyter IDE` will be opened in a web browser, open one of the downloaded programs
 5. Select menu `Cell` > `Run All` to run the program
