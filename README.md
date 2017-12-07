@@ -29,6 +29,7 @@ Chonnam National University
 7. Type `cd /d "path to .whl file"`
 8. Install `TensorFlow` by entering `pip install --ignore-installed --upgrade tensorflow_gpu-1.0.1-cp35-cp35m-win_amd64.whl`
 9. Enter `conda install -c conda-forge keras` to install Keras
+10. (Optional) JupyterLab: conda install jupyterlab, jupyter serverextension enable --py jupyterlab, jupyter lab
 
 ## Usage
 1. Download `cnn_mnist.ipynb`, `mlp_mnist.ipynb`, and `mnist_cnn_lstm_training.ipynb` to your computer. For example, `D:\dl`
