@@ -1,15 +1,7 @@
 # Example programs in PR class
 Nguyen Hai Duong  
 Chonnam National University  
-  
-## Models
-1. MLP for MNIST dataset  
-![alt text](https://raw.githubusercontent.com/nhduong/intro_deep/master/img/mlp.PNG)
-2. CNN for MNIST dataset  
-![alt text](https://raw.githubusercontent.com/nhduong/intro_deep/master/img/cnn.PNG)
-3. CNN-LSTM for MNIST dataset  
-![alt text](https://raw.githubusercontent.com/nhduong/intro_deep/master/img/lstm.PNG)
-  
+    
 ## Environment
 0. Windows x64
 1. Python 3.5
@@ -32,15 +24,15 @@ Chonnam National University
 10. (Optional) JupyterLab: conda install jupyterlab, jupyter serverextension enable --py jupyterlab, jupyter lab
 
 ## Environment Setup (with CPUs)
-4. Download and install [Anaconda 4.2.0 with Python 3.5](https://repo.continuum.io/archive/Anaconda3-4.2.0-Windows-x86_64.exe)
-5. Download TensorFlow 1.0.1 CPU for Python 3.5 ([tensorflow-1.0.1-cp35-cp35m-win_amd64.whl](https://pypi.python.org/pypi/tensorflow/1.0.1))
-6. Open Command Prompt as Administrator
-7. Type `cd /d "path to .whl file"`
-8. Install `TensorFlow` by entering `pip install --ignore-installed --upgrade tensorflow-1.0.1-cp35-cp35m-win_amd64.whl`
-9. Enter `conda install -c conda-forge keras` to install Keras
+1. Download and install [Anaconda 4.2.0 with Python 3.5](https://repo.continuum.io/archive/Anaconda3-4.2.0-Windows-x86_64.exe)
+2. Download TensorFlow 1.0.1 CPU for Python 3.5 ([tensorflow-1.0.1-cp35-cp35m-win_amd64.whl](https://pypi.python.org/pypi/tensorflow/1.0.1))
+3. Open Command Prompt as Administrator
+4. Type `cd /d "path to .whl file"`
+5. Install `TensorFlow` by entering `pip install --ignore-installed --upgrade tensorflow-1.0.1-cp35-cp35m-win_amd64.whl`
+6. Enter `conda install -c conda-forge keras` to install Keras
 
 ## Usage
-1. Download `cnn_mnist.ipynb`, `mlp_mnist.ipynb`, and `mnist_cnn_lstm_training.ipynb` to your computer. For example, `D:\dl`
+1. Download `.ipynb` files to your computer. For example, `D:\dl`
 2. Open Command Prompt, type `cd /d D:\dl`
 3. Enter `jupyter notebook`
 4. `Jupyter IDE` will be opened in a web browser, open one of the downloaded programs
