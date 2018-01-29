@@ -1,5 +1,6 @@
-# Example programs in PR class
+# Deep Learning Example Programs
 Nguyen Hai Duong  
+Professor Kim Soo Hyung  
 Chonnam National University  
     
 ## Environment
