@@ -22,7 +22,6 @@ Chonnam National University
 7. Type `cd /d "path to .whl file"`
 8. Install `TensorFlow` by entering `pip install --ignore-installed --upgrade tensorflow_gpu-1.0.1-cp35-cp35m-win_amd64.whl`
 9. Enter `conda install -c conda-forge keras` to install Keras
-10. (Optional) JupyterLab: conda install jupyterlab, jupyter serverextension enable --py jupyterlab, jupyter lab
 
 ## Environment Setup (with CPUs)
 1. Download and install [Anaconda 4.2.0 with Python 3.5](https://repo.continuum.io/archive/Anaconda3-4.2.0-Windows-x86_64.exe)
