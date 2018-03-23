@@ -12,7 +12,7 @@ Chonnam National University
 4. cuDNN v5 (optional, GPU only)
 
 ## ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Environment Setup 1 (with GPUs)
-0. Check whether you GPU has [Compute Capability 3.0 or higher](https://developer.nvidia.com/cuda-gpus). If not, please refer [Environment Setup (with CPUs)](https://github.com/nhduong/intro_deep#environment-setup-with-cpus)
+0. Check whether you GPU has [Compute Capability 3.0 or higher](https://developer.nvidia.com/cuda-gpus). If not, please refer either [Environment Setup 2 (with GPU Tesla K80 + Google Colab)](https://github.com/nhduong/intro_deep#-environment-setup-2-with-gpu-tesla-k80--google-colab) or [Environment Setup 3 (with CPUs)](https://github.com/nhduong/intro_deep#-environment-setup-3-with-cpus)
 1. Download and install [CUDA® Toolkit 8.0](https://developer.nvidia.com/cuda-downloads)
 2. Download [cuDNN v5.1](https://developer.nvidia.com/cudnn), extract downloaded file, copy `bin`, `include`, and `lib` folders to `%ProgramFiles%\NVIDIA GPU Computing Toolkit\CUDA\v8.0`
 3. You should restart your computer to apply system’s changes
