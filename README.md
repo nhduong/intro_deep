@@ -21,6 +21,13 @@ Chonnam National University
 6. Install `TensorFlow-GPU` by entering `conda install -c anaconda tensorflow-gpu`
 7. Enter `conda install -c anaconda keras-gpu` to install Keras-GPU
 
+## Environment Setup (with GPU Tesla K80 + Google Colab)
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) A free of charge way to experience training deep models with high-performance GPU.
+1. Download and install [Anaconda 4.2.0 with Python 3.5](https://repo.continuum.io/archive/Anaconda3-4.2.0-Windows-x86_64.exe)
+2. Open Command Prompt as Administrator
+3. Install `TensorFlow` by entering `conda install -c conda-forge tensorflow`
+4. Enter `conda install -c conda-forge keras` to install Keras
+
 ## Environment Setup (with CPUs)
 1. Download and install [Anaconda 4.2.0 with Python 3.5](https://repo.continuum.io/archive/Anaconda3-4.2.0-Windows-x86_64.exe)
 2. Open Command Prompt as Administrator
