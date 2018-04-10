@@ -27,7 +27,7 @@ A **_free of charge_** way to experience training deep models with high-performa
 2. Sign in with you personal Google account
 3. Menu `File` > `New Python 3 notebook`
 4. Menu `Runtime` > `Change runtime type` > `Hardware acceleration` > `GPU` > `Save`  
-(Note that python source codes will be saved in your Google Drive)
+(Note that python source codes will be saved in your Google Drive, and a work shift lasts for 12 hours)
 
 ## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Environment Setup 3 (with CPUs)
 1. Download and install [Anaconda 4.2.0 with Python 3.5](https://repo.continuum.io/archive/Anaconda3-4.2.0-Windows-x86_64.exe)
