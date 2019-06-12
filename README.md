@@ -3,7 +3,7 @@
 ![TensorFlow 1.1.0](https://img.shields.io/badge/TensorFlow-1.1.0-blue.svg)
 ![Keras v2.0.9](https://img.shields.io/badge/Keras-2.0.9-yellow.svg)
 ![CUDA 8.0](https://img.shields.io/badge/CUDA_8.0-optional,_GPU_only-orange.svg)
-![cuDNN v5](https://img.shields.io/badge/cuDNN_v5-optional,_GPU_only-lightgrey.svg)
+![cuDNN v5](https://img.shields.io/badge/cuDNN_v5-optional,_GPU_only-yellowgreen.svg)
 # Deep Learning Example Programs
 Nguyen Hai Duong  
 Professor Kim Soo Hyung  
