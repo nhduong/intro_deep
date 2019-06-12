@@ -1,22 +1,14 @@
 ![Windows x64](https://img.shields.io/badge/Windows-x64-green.svg)
-![Python 3.5](https://img.shields.io/badge/Python-3.5-green.svg)
-![TensorFlow 1.1.0](https://img.shields.io/badge/TensorFlow-1.1.0-green.svg)
-![Keras v2.0.9](https://img.shields.io/badge/Keras-2.0.9-green.svg)
-![CUDA 8.0](https://img.shields.io/badge/CUDA_8.0-optional,_GPU_only-green.svg)
-![cuDNN v5](https://img.shields.io/badge/cuDNN_v5-optional,_GPU_only-green.svg)
+![Python 3.5](https://img.shields.io/badge/Python-3.5-red.svg)
+![TensorFlow 1.1.0](https://img.shields.io/badge/TensorFlow-1.1.0-blue.svg)
+![Keras v2.0.9](https://img.shields.io/badge/Keras-2.0.9-yellow.svg)
+![CUDA 8.0](https://img.shields.io/badge/CUDA_8.0-optional,_GPU_only-orange.svg)
+![cuDNN v5](https://img.shields.io/badge/cuDNN_v5-optional,_GPU_only-lightgrey.svg)
 # Deep Learning Example Programs
 Nguyen Hai Duong  
 Professor Kim Soo Hyung  
 Chonnam National University  
     
-## Environment
-0. Windows x64
-1. Python 3.5
-2. TensorFlow
-3. Keras v2.0.9
-3. CUDA 8.0 (optional, GPU only)
-4. cuDNN v5 (optional, GPU only)
-
 ## ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Environment Setup 1 (with GPUs)
 0. Check whether you GPU has [Compute Capability 3.0 or higher](https://developer.nvidia.com/cuda-gpus). If not, please refer either [Environment Setup 2 (with GPU Tesla K80 + Google Colab)](https://github.com/nhduong/intro_deep#-environment-setup-2-with-gpu-tesla-k80--google-colab) or [Environment Setup 3 (with CPUs)](https://github.com/nhduong/intro_deep#-environment-setup-3-with-cpus)
 1. Download and install [CUDA® Toolkit 8.0](https://developer.nvidia.com/cuda-downloads)
